@@ -1,0 +1,4 @@
+# dsh-voicevox-tts bundle: VOICEVOX 読み上げプラグインを登録する。
+- insert:
+    - id: voicevox-tts
+      name: dsh-voicevox-tts
